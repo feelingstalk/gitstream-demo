@@ -1,7 +1,7 @@
 # 🔧 GitStream Automation Demo
 
 A full-stack demo app used to showcase `gitStream` automations like AI, `codeExperts`, contributor mapping, and PR workflows.
-
+and add here
 ### 🗂️ Structure
 
 - `frontend/` – HTML/JS UI and NodeJS proxy
